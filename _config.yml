@@ -21,7 +21,7 @@
 domain: codermoose.github.io
 url: https://codermoose.github.io
 title: Coder Moose
-email: mistercodermoose@gmail.com
+email: let emailAddress = "mister" + "codermoose" + "@gmail" + ".com"
 description: I like writing blogs :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

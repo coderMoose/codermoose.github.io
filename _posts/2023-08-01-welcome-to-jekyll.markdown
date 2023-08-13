@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Coder Moose!"
 date:   2023-08-01 19:17:19 -0400
 categories: jekyll update
 ---
